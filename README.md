@@ -1,2 +1,2 @@
 # Enchantcreep
-A plugin that increases the max level of enchanting while also providing additional challenge to increase those caps.
+A plugin that provides an alternate experience to weapon and armor enchants, as well as adding more functionalities that improve weapon scaling.
